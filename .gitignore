@@ -1,8 +1,8 @@
 # Ignore all
-*
+
 # Except
 !.gitignore
-!refine.css
+
 !Refine.png
 !Refine-large.png
 !Refine-sample-1.png
