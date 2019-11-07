@@ -1,8 +1,12 @@
 ![](Refine-large.png)
 
-# Refine
+# Inter
 
-A theme for [Typora](https://typora.io). Optimised for easy reading and uses only preinstalled typefaces. Based on the styling for my [personal website](https://serena.nz/).
+A theme for [Typora](https://typora.io). Optimised for easy reading and uses only preinstalled typefaces. Based on the styling for my NewNormal project.
+
+# Last update:
+
+Thursday; November 7, 2019
 
 ## Notable features
 
@@ -26,9 +30,8 @@ Headers, margins, text sizes and content positioning should all scale with the w
 
 A few people have asked me what fonts you need installed to render the fonts displayed in the sample screenshots. The typefaces that you see are:
 
-- [Questa and Questa Grande](https://fonts.adobe.com/foundries/the-questa-project)
-- [SF Pro](https://developer.apple.com/fonts/)
-- [Athelas](https://fonts.adobe.com/fonts/athelas)
+- [Inter](https://https://rsms.me/inter/samples/)
+
 
 
 ## Support
@@ -38,8 +41,3 @@ This theme should support all the usual elements. If you find that it doesn't su
 Happy reading and writing!
 
 
-![](Refine-sample-1.png)
-
-![](Refine-sample-2.png)
-
-![](Refine-sample-3.png)
